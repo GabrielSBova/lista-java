@@ -20,7 +20,7 @@ public class ex3 {
         double rcubica = Math.cbrt(numero);
 
         //Resultados
-        System.out.printf("Raiz cúbica: %.2f", rcubica);
+        System.out.printf("Raiz cúbica: %.2f \n" , rcubica);
         System.out.printf("Raiz quadrada: %.2f", rquadrada);
     }
 }
