@@ -7,6 +7,7 @@ public class ex4 {
     public static void main(String[] args) {
         //Variáveis
         Scanner teclado = new Scanner(System.in);
+
         float numero;
 
         //Entradas
